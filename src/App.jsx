@@ -1,5 +1,7 @@
 import React from 'react'
 import Sidebar from './components/sidebar'
+import Player from './components/Player'
+
 
 
 
@@ -9,6 +11,7 @@ const App = () => {
       <div className='h-[90%] flex'>
         <Sidebar />
       </div>
+      <Player />
       
     </div>
   )
