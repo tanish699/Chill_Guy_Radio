@@ -22,7 +22,7 @@ import arrow_right from './frontend-assets/right_arrow.png';
 import arrow_left from './frontend-assets/left_arrow.png';
 import spotify_logo from './frontend-assets/spotify_logo.png';
 import clock_icon from './frontend-assets/clock_icon.png';
-import img1 from './frontend-assets/img1.jpg';
+import img1 from './frontend-assets/img1.jpeg';
 import img2 from './frontend-assets/img2.jpg';
 import img3 from './frontend-assets/img3.jpg';
 import img4 from './frontend-assets/img4.jpg';
